@@ -1,3 +1,4 @@
+'''
                   -`                     someonestolemyfood@somek
                  .o+`                    ------------------------
                 `ooo/                    OS: Arch Linux x86_64
@@ -17,5 +18,4 @@
  `+sso+:-`                 `.-/+oso:     GPU: UHD Graphics
 `++:.                           `-/+/    
 .`                                 `/    
-                                                                 
-                                                                 
+'''
