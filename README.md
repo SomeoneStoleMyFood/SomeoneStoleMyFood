@@ -48,13 +48,13 @@
 
 ###
 
-<div data-importer="image" align="left">
-  <img data-importer="image" height="200" src="https://raw.githubusercontent.com/SomeoneStoleMyFood/SomeoneStoleMyFood/refs/heads/main/Pin%20de%20barbara%20em%20homescreen%20_%20Ideias%20de%20banner%2C%20Tatuagens%20retro%2C%20Banner%20para%202257.jpg"  />
-</div>
+<h1 data-importer="text" align="left">Other</h1>
 
 ###
 
-<h1 data-importer="text" align="left">Other</h1>
+<div data-importer="image" align="left">
+  <img data-importer="image" height="200" src="https://raw.githubusercontent.com/SomeoneStoleMyFood/SomeoneStoleMyFood/refs/heads/main/Pin%20de%20barbara%20em%20homescreen%20_%20Ideias%20de%20banner%2C%20Tatuagens%20retro%2C%20Banner%20para%202257.jpg"  />
+</div>
 
 ###
 
@@ -73,6 +73,12 @@
   <a href="https://t.me/someonestolemyfood" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
+</div>
+
+###
+
+<div data-importer="image" align="left">
+  <img data-importer="image" height="200" src="[https://media1.tenor.com/m/EfR1fTe4BnEAAAAd/github-beloved.gif"  />
 </div>
 
 ###
