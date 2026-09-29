@@ -54,7 +54,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Profile watches:</h1>
+<h1 data-importer="text" align="left">Other</h1>
 
 ###
 
