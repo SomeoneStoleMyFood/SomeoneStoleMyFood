@@ -1,21 +1,78 @@
-<pre>
-                  -`                     someonestolemyfood@somek
-                 .o+`                    ------------------------
-                `ooo/                    OS: Arch Linux x86_64
-               `+oooo:                   Host: Victus by HP Gaming Laptop 15-fa0xxx
-              `+oooooo:                  Kernel: 7.2.7-arch1-1
-              -+oooooo+:                 Memory: 4825MiB / 15647MiB
-            `/:-:++oooo+:                Packages: 39 (flatpak), 1132 (pacman)
-           `/++++/+++++++:               Shell: fish 4.9.3
-          `/++++++++++++++:              Resolution: 1920x1080
-         `/+++ooooooooooooo/`            WM: Hyprland 0.56.2 (Wayland)
-        ./ooosssso++osssssso+`           Theme: adw-gtk3-dark [GTK2/3/4]
-       .oossssso-````/ossssss+`          Icons: Tela-circle-nord-dark [GTK2/3/4]
-      -osssssso.      :ssssssso.         Terminal: foot 1.28.0
-     :osssssss/        osssso+++.        Terminal Font: JetBrainsMono Nerd Font 11
-    /ossssssss/        +ssssooo/-        CPU: 12th Gen Intel(R) Core(TM) i5-12450H (12) @ 4.400GHz
-  `/ossssso+/:-        -:/+osssso+-      GPU: GeForce RTX 3050 Mobile
- `+sso+:-`                 `.-/+oso:     GPU: UHD Graphics
-`++:.                           `-/+/    
-.`                                 `/    
-</pre>
+<div data-importer="image" align="left">
+  <img data-importer="image" height="200" src="https://raw.githubusercontent.com/SomeoneStoleMyFood/SomeoneStoleMyFood/refs/heads/main/588353138862171281.jpg"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="left">Hello! Im SomeoneStoleMyFood. My techs:</h1>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="40" alt="aarch64 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="left">Profile watches:</h1>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:SomeoneStoleMyFood?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
+</div>
+
+###
+
+<div data-importer="image" align="left">
+  <img data-importer="image" height="200" src="https://raw.githubusercontent.com/SomeoneStoleMyFood/SomeoneStoleMyFood/refs/heads/main/588353138862171281.jpg"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="left">Profile watches:</h1>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SomeoneStoleMyFood/SomeoneStoleMyFood/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SomeoneStoleMyFood/SomeoneStoleMyFood/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SomeoneStoleMyFood/SomeoneStoleMyFood/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.youtube.com/@SomeoneStoleMyFoodXD" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://t.me/someonestolemyfood" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
