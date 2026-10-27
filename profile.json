@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "login": "SomeoneStoleMyFood",
+  "seed": "#CC577F",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "SomeoneStoleMyFood",
+    "subtitle": "I'm eating burgers",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Kazakhstan"
+      },
+      {
+        "icon": "code",
+        "label": "C++ · Python · HTML"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "I love Material Design"
+      },
+      {
+        "icon": "brand:archlinux",
+        "label": "Using arch linux"
+      },
+      {
+        "icon": "brand:hyprland",
+        "label": "Creationg own dots"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Programing language",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML 5"
+          },
+          {
+            "icon": "brand:luau",
+            "label": "Luau"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          }
+        ]
+      },
+      {
+        "title": "Im use",
+        "items": [
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch linux"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:youtube",
+            "label": "Youtube"
+          },
+          {
+            "icon": "brand:youtubemusic",
+            "label": "Youtube music"
+          },
+          {
+            "icon": "brand:telegram",
+            "label": "Telegram"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          },
+          {
+            "icon": "brand:godotengine",
+            "label": "Godot"
+          },
+          {
+            "icon": "brand:tiktok",
+            "label": "Tiktok"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "echo-bot",
+      "Hyprdroid"
+    ],
+    "overrides": {
+      "dotfiles": {
+        "icon": "brand:hyprland",
+        "shape": "cookie"
+      },
+      "Hyprdroid": {
+        "shape": "cookie",
+        "icon": "brand:hyprland"
+      },
+      "SomeoneStoleMyFood": {
+        "icon": "brand:hyprland"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak (like in the tiktok right?)",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/@someonestolemyfood"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1364502358440149023"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/@SomeoneStoleMyFoodXD"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://codnyan.lol",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
